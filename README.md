@@ -17,3 +17,5 @@ One of multiple flags are recognized by the program.
 |`-s`\|`--Silent`| Suppresses printouts to console, result is only provided by return code |
 |`-h`\|`--Help`| Prints out useage and help, and quits the program |
 |`-v`\|`--Version`| Prints out program version, and quits the program |
+
+build files have been provided for Windows and Linux which should perform the compilation for all three languages.
